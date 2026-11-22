@@ -1,3 +1,5 @@
+> **Security notice:** Release **v1.8.8 is withdrawn and must not be installed.** Its update-signing key was exposed and has been rotated. Wait for a newer stable release with the replacement key. Existing v1.8.8 builds are not approved for use.
+
 # Red Strip Launcher — Releases
 
 This repository is the public distribution channel for the Windows application.
